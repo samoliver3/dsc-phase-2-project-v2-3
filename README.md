@@ -43,7 +43,7 @@ This model took advantage of most of the variables offered in the dataset includ
 This linear regression model achieved an r-squared value of about .78.
 
 A visualization is shown below for the actual values and predicted values of the third model.
-![Model 3 Results](dsc-phase-2-project-v2-3/images/heatmapProject2.png)
+![Model 3 Results](./images/heatmapProject2.png)
 
 ### Model 4
 
