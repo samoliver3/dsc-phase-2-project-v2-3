@@ -45,6 +45,8 @@ This linear regression model achieved an r-squared value of about .78.
 A visualization is shown below for the actual values and predicted values of the third model.
 ![Model 3 Results](./images/model3ResultsProject2.png)
 
+Although the error in this model appears larger than the first model, the error is actually smaller. The error size appears larger here because the prices have been log-transformed.
+
 ### Model 4
 
 This model intended to utilize the same methods of the third model, but this model transformed all categorical variables from model 3 by utilizing dummy variables. This model achieved the same r-squared value as the third model. 
