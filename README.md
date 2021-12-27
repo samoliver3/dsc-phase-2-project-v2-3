@@ -21,7 +21,7 @@ First, the data will be cleaned to handle null-values and to handle datatypes. S
 Variables will be examined to evaluate correlation with the target variable, 'price'. Then, variables will be chosen to build a linear regression model with the target variable of price. 
 
 A correlation map is shown below between all the variables in the dataset and price.
-![Heatmap Correlation]("./images/heatmapProject2.png")
+![Heatmap Correlation](./images/heatmapProject2.png)
 
 Iterative models will be used to find a multiple linear regression model with an acceptable r-squared value. 
 
@@ -30,7 +30,7 @@ Iterative models will be used to find a multiple linear regression model with an
 The two highest correlative variables with price are grade and sqft_living, so these variables were chosen to build the first linear regression model. The r-squared value was less than 0.6, and was not deemed acceptable for accurately predicting homes prices.
 
 A visualization is shown below for the actual values and predicted values of the first model.
-![Model 1 Results]("./images/model1ResultsProject2.png")
+![Model 1 Results](./images/model1ResultsProject2.png)
 
 ### Model 2
 
@@ -43,7 +43,7 @@ This model took advantage of most of the variables offered in the dataset includ
 This linear regression model achieved an r-squared value of about .78.
 
 A visualization is shown below for the actual values and predicted values of the third model.
-![Model 3 Results]("dsc-phase-2-project-v2-3/images/heatmapProject2.png")
+![Model 3 Results](dsc-phase-2-project-v2-3/images/heatmapProject2.png)
 
 ### Model 4
 
