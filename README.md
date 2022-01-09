@@ -6,7 +6,7 @@ The goal of this project is to utilize existing data from the King's County hous
 
 ### Business Problem
 
-The stakeholder represents a real estate agency that intends to establish itself in King's County. The agency aims to take advantage of predictive modeling to find undervalued homes or characteristics of high-grossing homes to build these kinds of homes. 
+The stakeholder represents a real estate agency that intends to establish itself in King's County. The agency aims to take advantage of predictive modeling to find characteristics of valuable homes to build these kinds of homes. 
 
 ### The Data
 
