@@ -38,9 +38,11 @@ The two highest correlative variables with price are grade and sqft_living, so t
 The model resulted in an r-squared value of about 54%. The model did not satisfy required regression assumptions, as seen in these visualizations:
 
 QQPlot:
+
 ![Model 1 QQPlot](./images/qqplotMod1.png)
 
 Homoscedasticity:
+
 ![Model 1 Homoscedasticity](./images/mod1Homoscedas.png)
 
 
@@ -61,14 +63,17 @@ After attending to the modeling process described above, the variables in the fi
 Overview of model performance:
 
 QQPlot:
+
 ![Final Model QQPlot](./images/finalQQ.png)
 
 Homoscedasticity:
+
 ![Final Model Homoscedasticity](./images/finalHomoscedas.png)
 
 This model resulted in a mean absolute error of about $70,070 indicating that the model will typically result in an error around this amount. The r-squared value was 83.6%.
 
 The final model error can be visualized below:
+
 ![Final Model Error](./images/finalModError.png)
 
 ### Conclusions
