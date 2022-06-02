@@ -70,7 +70,7 @@ Homoscedasticity:
 
 ![Final Model Homoscedasticity](./images/finalHomoscedas.png)
 
-This model resulted in a mean absolute error of about $70,070 indicating that the model will typically result in an error around this amount. The r-squared value was 83.6%.
+This model resulted in a mean absolute error of about $48961.66 indicating that the model will typically result in an error around this amount. The r-squared value was 83.6%.
 
 The final model error can be visualized below:
 
