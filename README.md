@@ -1,4 +1,4 @@
-# Using Multiple Linear Regression to Predict Prices of Homes in King County, WA
+# Using Multiple Linear Regression to Infer Prices of Homes in King County, WA
 
 ## Project Overview
 
