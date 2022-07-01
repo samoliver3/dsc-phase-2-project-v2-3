@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this project is to utilize existing data from the King's County housing set from 2014-2015 to predict prices of homes in the area. This dataset represents homes sold in this date range and it includes many different variables.
+The goal of this project is to utilize existing data from the King's County housing set from 2014-2015 to evaluate prices of homes in the area. This dataset represents homes sold in this date range and it includes many different variables.
 
 ### Business Problem
 
